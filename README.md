@@ -23,3 +23,6 @@ Note: If you encounter any errors then please reverify Ollama is Alive or not us
 8. Pull/ Download the Llama 3 model to make sure it's downloaded on your local machine. It will download llama3 module approax ~4.8GB
 ollama run qwen2.5:7b
 
+<img width="694" height="426" alt="image" src="https://github.com/user-attachments/assets/c9617d97-ca79-4e70-a0ed-07b7a25e0422" />
+<img width="692" height="482" alt="image" src="https://github.com/user-attachments/assets/3af0efa2-e683-4ef3-8187-92b257218823" />
+
